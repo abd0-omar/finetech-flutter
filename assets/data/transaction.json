@@ -1,0 +1,32 @@
+    [
+        {
+            "id": 1,
+            "name": "Dribble",
+            "price": 29.99,
+            "type": "Subscription Fee"
+        },
+        {
+            "id": 2,
+            "name": "House",
+            "price": 49.99,
+            "type": "Saving"
+        },
+        {
+            "id": 3,
+            "name": "Sony Camera",
+            "price": 19.99,
+            "type": "Shopping fee"
+        },
+        {
+            "id": 4,
+            "name": "Paypal",
+            "price": 39.99,
+            "type": "Salary"
+        },
+        {
+            "id": 5,
+            "name": "Random Thief",
+            "price": 24.99,
+            "type": "idk"
+        }
+    ]

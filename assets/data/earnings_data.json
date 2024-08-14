@@ -1,0 +1,30 @@
+[
+    {
+        "company": "Upwork",
+        "money": 3000.00
+    },
+    {
+        "company": "Freelance",
+        "money": 1500.50
+    },
+    {
+        "company": "Fiverr",
+        "money": 2200.75
+    },
+    {
+        "company": "Toptal",
+        "money": 3400.00
+    },
+    {
+        "company": "Fathallah",
+        "money": 1300.25
+    },
+    {
+        "company": "Raid",
+        "money": 2500.00
+    },
+    {
+        "company": "Raid",
+        "money": 2500.00
+    }
+]
